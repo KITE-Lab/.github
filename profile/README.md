@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./kite lab.jpg" alt="KITE Lab Logo" width="250"/>
+  <img src="./kite lab.png" alt="KITE Lab Logo" width="250"/>
 </div>
 
 <h1 align="center">Ke's Intelligent Transportation Exploration Lab</h1>
