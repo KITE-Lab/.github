@@ -6,7 +6,7 @@
 We are **KITE Lab** (Ke's Intelligent Transportation Exploration Lab), a research lab within the **Intelligent Transportation Thrust**, **System Hub**, at **The Hong Kong University of Science and Technology (Guangzhou)**.
 
 - 📍 Based at **HKUST(GZ)**
-- 👨‍🏫 Led by **Professor Mark**
+- 👨‍🏫 Led by **Professor Make**
 - 💡 Focused on **Intelligent Transportation Systems**
 - 📊 We share **experimental data** to promote academic collaboration — [Explore Our Data](#)
 
